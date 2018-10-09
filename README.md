@@ -2,9 +2,7 @@
 
 ## How to start contributing to OpenSource
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
-
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
 ## Fork this repository
 
