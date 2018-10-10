@@ -4,3 +4,4 @@
 
 - [ShubhamKarala](https://github.com/ShubhamKarala)  
 - [mikestratton](https://github.com/mikestratton)
+- [Vishal Bhardwaj](https://github.com/srdevelopervishal)
