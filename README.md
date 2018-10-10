@@ -85,3 +85,7 @@ If you go to your repository on GitHub, you'll see a  `Compare & pull request` b
 Now submit the pull request.
 
 <img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+
+## Now What
+
+If your Pull request didn't cause any merge conflict then i will merge it into the main branch and you will be added as contributor of the project.
