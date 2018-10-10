@@ -7,3 +7,4 @@
 - [Ravi Gupta](https://github.com/guptaravi540)
 - [Mayokun Adeniyi](https://github.com/mayokunthefirst)
 - [Tushar](https://github.com/tusharkavya)
+- [Rahul](https://github.com/mad-learner)
