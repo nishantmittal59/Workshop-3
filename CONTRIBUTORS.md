@@ -11,3 +11,4 @@
 - [Shivam Bhardwaj](https://github.com/CrickSoldier)
 - [lavendersnake](https://github.com/lavendersnake)
 - [dialv](https://github.com/dialv)
+- [Mohit Aggarwal](https://github.com/Mister-maker)
