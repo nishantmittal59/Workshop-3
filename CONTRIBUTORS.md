@@ -5,6 +5,7 @@
 - [ShubhamKarala](https://github.com/ShubhamKarala)  
 - [mikestratton](https://github.com/mikestratton)
 - [Ravi Gupta](https://github.com/guptaravi540)
+- [Nishant Mittal](https://github.com/nishantmittal59)
 - [Mayokun Adeniyi](https://github.com/mayokunthefirst)
 - [Tushar](https://github.com/tusharkavya)
 - [Rahul](https://github.com/mad-learner)
