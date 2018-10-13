@@ -12,3 +12,4 @@
 - [lavendersnake](https://github.com/lavendersnake)
 - [dialv](https://github.com/dialv)
 - [Mohit Aggarwal](https://github.com/Mister-maker)
+- [Nishant Mittal](https://github.com/nishantmittal59)
